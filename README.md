@@ -34,3 +34,4 @@ The trained symbols of the project include:
 - Thank you (ASL).
 - Love (ASL).
 - Do nothing.# AI
+# AI
