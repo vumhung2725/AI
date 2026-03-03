@@ -37,3 +37,4 @@ The trained symbols of the project include:
 # AI
 # AI
 # AI
+# AI
