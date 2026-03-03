@@ -35,3 +35,4 @@ The trained symbols of the project include:
 - Love (ASL).
 - Do nothing.# AI
 # AI
+# AI
